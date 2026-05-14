@@ -90,6 +90,8 @@
   font-weight: normal;
 }
 
+/* SOLUTION */
+
 .container {
   display: grid;
   grid-template-columns: 1fr 4fr;
